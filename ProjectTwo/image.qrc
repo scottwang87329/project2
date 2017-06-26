@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/teacher21.jpg</file>
+        <file>image/content-3_clip_image006.jpg</file>
+        <file>image/307p47.jpg</file>
+        <file>image/teacher30.jpg</file>
+        <file>image/background.jpg</file>
+        <file>image/Hulk_(comics_character).png</file>
+        <file>image/圖片1.png</file>
+        <file>image/4號背景.jpg</file>
+        <file>image/3號背景.jpg</file>
+        <file>image/2號背景.jpg</file>
+        <file>image/1號背景.jpg</file>
+        <file>image/endpic.jpg</file>
+        <file>image/endpic2.jpg</file>
+        <file>image/14955-illustration-of-a-cartoon-castle-tower-with-flag-pv.png</file>
+        <file>image/fireball.png</file>
+        <file>image/attack1.png</file>
+        <file>image/black_dot_by_lastorka-d6uac7i.jpg.png</file>
+    </qresource>
+</RCC>
